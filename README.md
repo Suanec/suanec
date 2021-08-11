@@ -16,6 +16,7 @@
 - [Patent](https://www.patenthub.cn/s?ds=cn&q=%E7%94%B3%E6%81%A9%E5%85%86)
 - [Fuzhen](http://www.intsci.ac.cn/users/zhuangfuzhen/)
 - [Aoxiang](http://sourcedb.ict.cas.cn/cn/jssrck/201810/t20181029_5151251.html)
+- [AE-on-spark](https://www.cnki.com.cn/Article/CJFDTotal-SJCJ201801008.htm)
 
 ### Slide
 - [DataFun-2020](https://www.infoq.cn/article/xuTw5wBTIXPbdeyqIiVN/)
